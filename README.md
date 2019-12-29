@@ -8,4 +8,6 @@ The project notebook can be found in the .ipynb file. <br>
 
 The dataset is can be found under lending_club_loan_X.csv (4 separate csv files due to size of the dataset) and the library requirements/versions used for this project are located in the requirements.txt file. <br>
 
+<b>Technologies used for this project:</b> python, pandas, numpy, matplotlib, seaborn, scikit-learn, tensorflow, keras.
+
 The information of all the features in the dataset can be found in lending_club_info.csv.
